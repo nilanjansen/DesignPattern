@@ -1,4 +1,6 @@
 # DesignPattern
+
+Creational Pattern -> 1. Factory Pattern
 This repository explains Gang of Four Design Patterns with example and images
  //This pattern is simply about requesting objects that are created behind
 //the scenes and having the correct type of the object returned to you. 
